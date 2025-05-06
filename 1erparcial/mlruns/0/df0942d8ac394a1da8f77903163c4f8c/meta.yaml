@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/franc/OneDrive/Documentos/ISTEA/1er%20cuatrimestre%202025%20-%204to%20de%20carrera/Laboratorio%20de%20mineria%20de%20datos/1erparcial/mlruns/0/df0942d8ac394a1da8f77903163c4f8c/artifacts
+end_time: 1746573803688
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df0942d8ac394a1da8f77903163c4f8c
+run_name: peaceful-colt-948
+run_uuid: df0942d8ac394a1da8f77903163c4f8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746573796363
+status: 3
+tags: []
+user_id: franc

@@ -1,0 +1,2 @@
+En el punto de la diferencia de accuracy entre los modelos marque la mas cercana porque niguna de las opciones es la respuesta que me dio la resta entre los accuracy de mis modelos.
+Mi resultado fue = 0.05 de diferencia.

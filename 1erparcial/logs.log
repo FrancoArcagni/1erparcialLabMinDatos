@@ -1,0 +1,17 @@
+2025-05-06 20:20:44,604:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-06 20:20:44,604:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-06 20:20:44,604:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-06 20:20:44,604:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-06 20:25:30,422:INFO:Initializing load_model()
+2025-05-06 20:25:30,436:INFO:load_model(model_name=C:/Users/franc/OneDrive/Documentos/ISTEA/1er cuatrimestre 2025 - 4to de carrera/Laboratorio de mineria de datos/1erparcial/mlruns/0/df0942d8ac394a1da8f77903163c4f8c/artifacts/model2, platform=None, authentication=None, verbose=True)
+2025-05-06 20:26:17,623:INFO:Initializing load_model()
+2025-05-06 20:26:17,624:INFO:load_model(model_name=C:/Users/franc/OneDrive/Documentos/ISTEA/1er cuatrimestre 2025 - 4to de carrera/Laboratorio de mineria de datos/1erparcial/model2, platform=None, authentication=None, verbose=True)
+2025-05-06 20:27:01,612:WARNING:c:\Users\franc\anaconda3\Lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but DecisionTreeClassifier was fitted with feature names
+  warnings.warn(
+
+2025-05-06 20:30:10,513:INFO:Initializing load_model()
+2025-05-06 20:30:10,514:INFO:load_model(model_name=C:/Users/franc/OneDrive/Documentos/ISTEA/1er cuatrimestre 2025 - 4to de carrera/Laboratorio de mineria de datos/1erparcial/model, platform=None, authentication=None, verbose=True)
