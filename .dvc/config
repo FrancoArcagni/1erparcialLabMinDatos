@@ -1,0 +1,7 @@
+[core]
+    remote = gdrive-remote
+['remote "gdrive-remote"']
+    url = gdrive://1aYRZMfSvPUgsUA3Kxg0NVM4vK5Jot96P
+    gdrive_use_service_account = true
+    gdrive_service_account_json_file_path = C:\Users\franc\OneDrive\Escritorio\erparcial-459100-d72820b20a57.json
+	
